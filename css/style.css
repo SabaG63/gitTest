@@ -87,3 +87,14 @@ button {
     text-transform: uppercase;
     color: #fff;
 }
+/* v3.0.0 */
+.fixed {
+    position: absolute;
+    bottom: 3rem;
+    right: 4rem;
+    background-color: #462a67;
+    padding: 1rem 1.2rem;
+    border-radius: 50px;
+    font-size: 25px;
+    cursor: pointer;
+}
